@@ -1,0 +1,671 @@
+{
+  "profiles": [
+    {
+      "id": "profile-alex-morgan",
+      "name": "Alex Morgan",
+      "course": "B.Tech Computer Science & Engineering",
+      "academicLevel": "University / School",
+      "voicePersona": "male",
+      "avatarColor": "from-orange-500 to-amber-600",
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "analytics": {
+        "examinationsIn": 4,
+        "assessmentsTaken": 12,
+        "averageAccuracy": 84,
+        "questionsSolved": 148,
+        "recoveredConcepts": 8,
+        "hiddenWeaknesses": "2 Identified",
+        "hiddenWeaknessesList": [
+          "Cache Invalidation in Distributed Systems",
+          "Time Complexity of Recursive Backtracking"
+        ],
+        "recentlyCleared": 3,
+        "learningProgress": 68,
+        "studyStreak": 7,
+        "completedLessons": 24,
+        "totalStudyTime": 420,
+        "communityPoints": 1450,
+        "achievements": 6,
+        "knowledgeMastery": "Proficient (76%)",
+        "knowledgeMasteryScore": 76,
+        "learningInsights": "Excels at algorithmic logic; requires consolidation on concurrency primitives.",
+        "revisionProgress": 62,
+        "strongestSubject": "Computer Science",
+        "learningPace": "Accelerated",
+        "bestStudyWindow": "Evening (18:00 - 21:00)"
+      }
+    },
+    {
+      "id": "profile-maya-patel",
+      "name": "Maya Patel",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-amber-600 to-orange-700",
+      "createdAt": "2026-11-01T10:00:00.000Z",
+      "analytics": {
+        "examinationsIn": 0,
+        "assessmentsTaken": 0,
+        "averageAccuracy": 0,
+        "questionsSolved": 0,
+        "recoveredConcepts": 0,
+        "hiddenWeaknesses": "NOT YET IDENTIFIED",
+        "hiddenWeaknessesList": [],
+        "recentlyCleared": 0,
+        "learningProgress": 0,
+        "studyStreak": 0,
+        "completedLessons": 0,
+        "totalStudyTime": 0,
+        "communityPoints": 0,
+        "achievements": 0,
+        "knowledgeMastery": "NOT YET IDENTIFIED",
+        "knowledgeMasteryScore": null,
+        "learningInsights": "NOT YET IDENTIFIED",
+        "revisionProgress": 0,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    },
+    {
+      "id": "bf538707-126c-414b-9326-09cd5eb8c89d",
+      "name": "Maya Patel",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-purple-500 to-pink-600",
+      "createdAt": "2026-11-07T13:15:57.017Z",
+      "analytics": {
+        "examinationsIn": 1,
+        "assessmentsTaken": 1,
+        "averageAccuracy": 75,
+        "questionsSolved": 4,
+        "recoveredConcepts": 2,
+        "hiddenWeaknesses": "1 Identified",
+        "hiddenWeaknessesList": [
+          "Calvin Cycle Intermediate Steps"
+        ],
+        "recentlyCleared": 2,
+        "learningProgress": 15,
+        "studyStreak": 1,
+        "completedLessons": 1,
+        "totalStudyTime": 15,
+        "communityPoints": 110,
+        "achievements": 1,
+        "knowledgeMastery": "Proficient (75%)",
+        "knowledgeMasteryScore": 75,
+        "learningInsights": "Strong performance in Photosynthesis & Bioenergetics. Consistent mastery of core principles with minor review recommended.",
+        "revisionProgress": 20,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    },
+    {
+      "id": "ce169279-534e-4b49-8d10-89bd0a7d9b07",
+      "name": "Maya Patel",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-blue-500 to-indigo-600",
+      "createdAt": "2026-11-07T13:16:34.042Z",
+      "analytics": {
+        "examinationsIn": 1,
+        "assessmentsTaken": 1,
+        "averageAccuracy": 75,
+        "questionsSolved": 4,
+        "recoveredConcepts": 2,
+        "hiddenWeaknesses": "1 Identified",
+        "hiddenWeaknessesList": [
+          "Calvin Cycle Intermediate Steps"
+        ],
+        "recentlyCleared": 2,
+        "learningProgress": 15,
+        "studyStreak": 1,
+        "completedLessons": 1,
+        "totalStudyTime": 15,
+        "communityPoints": 110,
+        "achievements": 1,
+        "knowledgeMastery": "Proficient (75%)",
+        "knowledgeMasteryScore": 75,
+        "learningInsights": "Strong performance in Photosynthesis & Bioenergetics. Consistent mastery of core principles with minor review recommended.",
+        "revisionProgress": 20,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    },
+    {
+      "id": "33c2f9b8-800f-418b-a630-ff3654b5652e",
+      "name": "Arjun Kumar",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-purple-500 to-pink-600",
+      "createdAt": "2026-11-07T13:17:40.765Z",
+      "analytics": {
+        "examinationsIn": 1,
+        "assessmentsTaken": 1,
+        "averageAccuracy": 100,
+        "questionsSolved": 4,
+        "recoveredConcepts": 4,
+        "hiddenWeaknesses": "None Detected",
+        "hiddenWeaknessesList": [],
+        "recentlyCleared": 4,
+        "learningProgress": 15,
+        "studyStreak": 1,
+        "completedLessons": 1,
+        "totalStudyTime": 15,
+        "communityPoints": 130,
+        "achievements": 1,
+        "knowledgeMastery": "Mastered (100%)",
+        "knowledgeMasteryScore": 100,
+        "learningInsights": "Strong performance in Photosynthesis & Cellular Bioenergetics. Flawless recall demonstrated on key concept foundations.",
+        "revisionProgress": 20,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    },
+    {
+      "id": "116d1e75-f9e9-4f34-9a05-ae5d25c9cf79",
+      "name": "Maya Patel",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-emerald-500 to-teal-600",
+      "createdAt": "2026-11-07T13:23:52.290Z",
+      "analytics": {
+        "examinationsIn": 1,
+        "assessmentsTaken": 1,
+        "averageAccuracy": 75,
+        "questionsSolved": 4,
+        "recoveredConcepts": 2,
+        "hiddenWeaknesses": "1 Identified",
+        "hiddenWeaknessesList": [
+          "Calvin Cycle Intermediate Steps"
+        ],
+        "recentlyCleared": 2,
+        "learningProgress": 15,
+        "studyStreak": 1,
+        "completedLessons": 1,
+        "totalStudyTime": 15,
+        "communityPoints": 110,
+        "achievements": 1,
+        "knowledgeMastery": "Proficient (75%)",
+        "knowledgeMasteryScore": 75,
+        "learningInsights": "Strong performance in Photosynthesis & Bioenergetics. Consistent mastery of core principles with minor review recommended.",
+        "revisionProgress": 20,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    },
+    {
+      "id": "67de0df7-7d2e-4dc6-9b1f-9caf59537691",
+      "name": "Maya Patel",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-blue-500 to-indigo-600",
+      "createdAt": "2026-11-07T13:41:34.281Z",
+      "analytics": {
+        "examinationsIn": 1,
+        "assessmentsTaken": 1,
+        "averageAccuracy": 75,
+        "questionsSolved": 4,
+        "recoveredConcepts": 2,
+        "hiddenWeaknesses": "1 Identified",
+        "hiddenWeaknessesList": [
+          "Calvin Cycle Intermediate Steps"
+        ],
+        "recentlyCleared": 2,
+        "learningProgress": 15,
+        "studyStreak": 1,
+        "completedLessons": 1,
+        "totalStudyTime": 15,
+        "communityPoints": 110,
+        "achievements": 1,
+        "knowledgeMastery": "Proficient (75%)",
+        "knowledgeMasteryScore": 75,
+        "learningInsights": "Strong performance in Photosynthesis & Bioenergetics. Consistent mastery of core principles with minor review recommended.",
+        "revisionProgress": 20,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    },
+    {
+      "id": "1e5162df-326b-4b0c-a317-07ec7f8d66a2",
+      "name": "Maya Patel",
+      "course": "Data Science 101",
+      "academicLevel": "University / School",
+      "voicePersona": "female",
+      "avatarColor": "from-blue-500 to-indigo-600",
+      "createdAt": "2026-11-07T13:44:43.915Z",
+      "analytics": {
+        "examinationsIn": 1,
+        "assessmentsTaken": 1,
+        "averageAccuracy": 75,
+        "questionsSolved": 4,
+        "recoveredConcepts": 2,
+        "hiddenWeaknesses": "1 Identified",
+        "hiddenWeaknessesList": [
+          "Calvin Cycle Intermediate Steps"
+        ],
+        "recentlyCleared": 2,
+        "learningProgress": 15,
+        "studyStreak": 1,
+        "completedLessons": 1,
+        "totalStudyTime": 15,
+        "communityPoints": 110,
+        "achievements": 1,
+        "knowledgeMastery": "Proficient (75%)",
+        "knowledgeMasteryScore": 75,
+        "learningInsights": "Strong performance in Photosynthesis & Bioenergetics. Consistent mastery of core principles with minor review recommended.",
+        "revisionProgress": 20,
+        "strongestSubject": "General Studies",
+        "learningPace": "Structured",
+        "bestStudyWindow": "Flexible"
+      }
+    }
+  ],
+  "conversations": {
+    "profile-alex-morgan": [
+      {
+        "id": "conv-alex-1",
+        "profileId": "profile-alex-morgan",
+        "title": "Core Foundations Breakdown",
+        "subject": "Core Foundations",
+        "createdAt": "2026-11-06T14:20:00.000Z",
+        "updatedAt": "2026-11-06T14:25:00.000Z",
+        "isLockedTitle": true,
+        "messages": [
+          {
+            "id": "msg-alex-1",
+            "sender": "student",
+            "text": "Can you explain Core Foundations concepts in academic study?",
+            "timestamp": "2026-11-06T14:20:00.000Z"
+          },
+          {
+            "id": "msg-alex-2",
+            "sender": "tutor",
+            "text": "Core Foundations in academic study typically refers to the fundamental principles that govern a specific discipline. In an undergraduate context, these are the essential pillars—concepts, theories, and methodologies—upon which advanced knowledge is built. These principles are characterized by universality, foundational utility, and logical consistency. Mastery of these foundations allows for the analysis of complex problems by breaking them down into their most basic, verifiable components.\n\n1. First Principles Thinking: Deconstructing complex problems into basic truths.\n2. Logical Consistency: Ensuring axioms do not contradict each other.\n3. Scalability: Principles must hold true across different scales.\n4. Empirical Verifiability: Foundations must be observable or mathematically provable.",
+            "timestamp": "2026-11-06T14:20:05.000Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Epistemology",
+              "Axiomatic Systems",
+              "Structural Analysis"
+            ]
+          }
+        ]
+      }
+    ],
+    "profile-maya-patel": [],
+    "bf538707-126c-414b-9326-09cd5eb8c89d": [
+      {
+        "id": "conv_1794057357050_00mf4",
+        "profileId": "bf538707-126c-414b-9326-09cd5eb8c89d",
+        "title": "Mastering Plant Bioenergetics",
+        "subject": "Biology & Bioenergetics",
+        "createdAt": "2026-11-07T13:15:57.050Z",
+        "updatedAt": "2026-11-07T13:15:57.298Z",
+        "messages": [
+          {
+            "id": "msg_std_1794057357059",
+            "sender": "student",
+            "text": "Explain photosynthesis in simple words",
+            "timestamp": "2026-11-07T13:15:57.059Z"
+          },
+          {
+            "id": "msg_tut_1794057357059",
+            "sender": "tutor",
+            "text": "Photosynthesis is the fundamental biological process by which autotrophic organisms (plants, algae, and cyanobacteria) convert light energy into chemical energy stored in carbohydrate bonds.\n\n1. Light-Dependent Reactions: Photons strike Photosystem II and I in the thylakoid membranes, exciting electrons and splitting H2O to release oxygen (O2) and generate ATP and NADPH.\n2. Calvin Cycle (Light-Independent): In the stroma, RuBisCO catalyzes the fixation of atmospheric CO2 onto ribulose-1,5-bisphosphate, utilizing ATP and NADPH to synthesize glyceraldehyde 3-phosphate (G3P).\n3. Net Biochemical Equation:\n   6 CO2 + 6 H2O + Light Energy → C6H12O6 + 6 O2\n4. Energetic Efficiency: Converts approximately 1–2% of incident solar radiation into plant biomass, providing the foundational energy source for terrestrial ecosystems.",
+            "timestamp": "2026-11-07T13:15:57.059Z",
+            "suggestedActions": [
+              "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+              "COMPARE C3, C4, AND CAM PHOTOSYNTHESIS",
+              "TAKE BIOENERGETICS ASSESSMENT QUIZ"
+            ],
+            "relatedConcepts": [
+              "Photophosphorylation",
+              "Thylakoid Dynamics",
+              "RuBisCO Kinetics",
+              "Cellular Respiration"
+            ]
+          },
+          {
+            "id": "msg_std_1794057357087",
+            "sender": "student",
+            "text": "What is the role of ATP synthase in this process?",
+            "timestamp": "2026-11-07T13:15:57.087Z"
+          },
+          {
+            "id": "msg_tut_1794057357087",
+            "sender": "tutor",
+            "text": "Let's analyze \"What is the role of ATP synthase in this process?\" from first principles.\n\n1. Core Definition: Deconstruct the problem into foundational axioms and verifiable components.\n2. Structural Mechanics: Trace the cause-and-effect relationships and operational logic governing this topic.\n3. Mathematical or Practical Analogy: Anchor the abstraction in real-world empirical examples.\n4. Key Takeaway: Ensure synthesized understanding before applying to advanced examination questions.",
+            "timestamp": "2026-11-07T13:15:57.087Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Conceptual Deconstruction",
+              "Axiomatic Analysis",
+              "Pedagogical Scaffolding"
+            ]
+          }
+        ],
+        "isLockedTitle": true,
+        "isCustomNamed": true
+      }
+    ],
+    "ce169279-534e-4b49-8d10-89bd0a7d9b07": [
+      {
+        "id": "conv_1794057394071_zs1ny",
+        "profileId": "ce169279-534e-4b49-8d10-89bd0a7d9b07",
+        "title": "Mastering Plant Bioenergetics",
+        "subject": "Biology & Bioenergetics",
+        "createdAt": "2026-11-07T13:16:34.071Z",
+        "updatedAt": "2026-11-07T13:16:34.125Z",
+        "messages": [
+          {
+            "id": "msg_std_1794057394080",
+            "sender": "student",
+            "text": "Explain photosynthesis in simple words",
+            "timestamp": "2026-11-07T13:16:34.080Z"
+          },
+          {
+            "id": "msg_tut_1794057394080",
+            "sender": "tutor",
+            "text": "Photosynthesis is the fundamental biological process by which autotrophic organisms (plants, algae, and cyanobacteria) convert light energy into chemical energy stored in carbohydrate bonds.\n\n1. Light-Dependent Reactions: Photons strike Photosystem II and I in the thylakoid membranes, exciting electrons and splitting H2O to release oxygen (O2) and generate ATP and NADPH.\n2. Calvin Cycle (Light-Independent): In the stroma, RuBisCO catalyzes the fixation of atmospheric CO2 onto ribulose-1,5-bisphosphate, utilizing ATP and NADPH to synthesize glyceraldehyde 3-phosphate (G3P).\n3. Net Biochemical Equation:\n   6 CO2 + 6 H2O + Light Energy → C6H12O6 + 6 O2\n4. Energetic Efficiency: Converts approximately 1–2% of incident solar radiation into plant biomass, providing the foundational energy source for terrestrial ecosystems.",
+            "timestamp": "2026-11-07T13:16:34.080Z",
+            "suggestedActions": [
+              "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+              "COMPARE C3, C4, AND CAM PHOTOSYNTHESIS",
+              "TAKE BIOENERGETICS ASSESSMENT QUIZ"
+            ],
+            "relatedConcepts": [
+              "Photophosphorylation",
+              "Thylakoid Dynamics",
+              "RuBisCO Kinetics",
+              "Cellular Respiration"
+            ]
+          },
+          {
+            "id": "msg_std_1794057394114",
+            "sender": "student",
+            "text": "What is the role of ATP synthase in this process?",
+            "timestamp": "2026-11-07T13:16:34.114Z"
+          },
+          {
+            "id": "msg_tut_1794057394114",
+            "sender": "tutor",
+            "text": "Let's analyze \"What is the role of ATP synthase in this process?\" from first principles.\n\n1. Core Definition: Deconstruct the problem into foundational axioms and verifiable components.\n2. Structural Mechanics: Trace the cause-and-effect relationships and operational logic governing this topic.\n3. Mathematical or Practical Analogy: Anchor the abstraction in real-world empirical examples.\n4. Key Takeaway: Ensure synthesized understanding before applying to advanced examination questions.",
+            "timestamp": "2026-11-07T13:16:34.114Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Conceptual Deconstruction",
+              "Axiomatic Analysis",
+              "Pedagogical Scaffolding"
+            ]
+          }
+        ],
+        "isLockedTitle": true,
+        "isCustomNamed": true
+      }
+    ],
+    "33c2f9b8-800f-418b-a630-ff3654b5652e": [
+      {
+        "id": "temp_conv_1794057542542_e5xkq",
+        "profileId": "33c2f9b8-800f-418b-a630-ff3654b5652e",
+        "title": "Understanding Photosynthesis",
+        "subject": "Core Foundations",
+        "createdAt": "2026-11-07T13:19:02.546Z",
+        "updatedAt": "2026-11-07T13:19:19.488Z",
+        "messages": [
+          {
+            "id": "msg_std_1794057542546",
+            "sender": "student",
+            "text": "Explain photosynthesis in simple words",
+            "timestamp": "2026-11-07T13:19:02.546Z"
+          },
+          {
+            "id": "msg_tut_1794057543003",
+            "sender": "tutor",
+            "text": "Photosynthesis is the fundamental biological process by which autotrophic organisms (plants, algae, and cyanobacteria) convert light energy into chemical energy stored in carbohydrate bonds.\n\n1. Light-Dependent Reactions: Photons strike Photosystem II and I in the thylakoid membranes, exciting electrons and splitting H2O to release oxygen (O2) and generate ATP and NADPH.\n2. Calvin Cycle (Light-Independent): In the stroma, RuBisCO catalyzes the fixation of atmospheric CO2 onto ribulose-1,5-bisphosphate, utilizing ATP and NADPH to synthesize glyceraldehyde 3-phosphate (G3P).\n3. Net Biochemical Equation:\n   6 CO2 + 6 H2O + Light Energy → C6H12O6 + 6 O2\n4. Energetic Efficiency: Converts approximately 1–2% of incident solar radiation into plant biomass, providing the foundational energy source for terrestrial ecosystems.",
+            "timestamp": "2026-11-07T13:19:03.003Z",
+            "suggestedActions": [
+              "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+              "COMPARE C3, C4, AND CAM PHOTOSYNTHESIS",
+              "TAKE BIOENERGETICS ASSESSMENT QUIZ"
+            ],
+            "relatedConcepts": [
+              "Photophosphorylation",
+              "Thylakoid Dynamics",
+              "RuBisCO Kinetics",
+              "Cellular Respiration"
+            ]
+          },
+          {
+            "id": "msg_std_1794057559246",
+            "sender": "student",
+            "text": "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+            "timestamp": "2026-11-07T13:19:19.246Z"
+          },
+          {
+            "id": "msg_tut_1794057559488",
+            "sender": "tutor",
+            "text": "Let's analyze \"BREAK DOWN THE CALVIN CYCLE STEP BY STEP\" from first principles.\n\n1. Core Definition: Deconstruct the problem into foundational axioms and verifiable components.\n2. Structural Mechanics: Trace the cause-and-effect relationships and operational logic governing this topic.\n3. Mathematical or Practical Analogy: Anchor the abstraction in real-world empirical examples.\n4. Key Takeaway: Ensure synthesized understanding before applying to advanced examination questions.",
+            "timestamp": "2026-11-07T13:19:19.488Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Conceptual Deconstruction",
+              "Axiomatic Analysis",
+              "Pedagogical Scaffolding"
+            ]
+          }
+        ],
+        "isLockedTitle": true
+      }
+    ],
+    "116d1e75-f9e9-4f34-9a05-ae5d25c9cf79": [
+      {
+        "id": "conv_1794057832315_ff3z7",
+        "profileId": "116d1e75-f9e9-4f34-9a05-ae5d25c9cf79",
+        "title": "Mastering Plant Bioenergetics",
+        "subject": "Biology & Bioenergetics",
+        "createdAt": "2026-11-07T13:23:52.315Z",
+        "updatedAt": "2026-11-07T13:23:52.360Z",
+        "messages": [
+          {
+            "id": "msg_std_1794057832322",
+            "sender": "student",
+            "text": "Explain photosynthesis in simple words",
+            "timestamp": "2026-11-07T13:23:52.322Z"
+          },
+          {
+            "id": "msg_tut_1794057832322",
+            "sender": "tutor",
+            "text": "Photosynthesis is the fundamental biological process by which autotrophic organisms (plants, algae, and cyanobacteria) convert light energy into chemical energy stored in carbohydrate bonds.\n\n1. Light-Dependent Reactions: Photons strike Photosystem II and I in the thylakoid membranes, exciting electrons and splitting H2O to release oxygen (O2) and generate ATP and NADPH.\n2. Calvin Cycle (Light-Independent): In the stroma, RuBisCO catalyzes the fixation of atmospheric CO2 onto ribulose-1,5-bisphosphate, utilizing ATP and NADPH to synthesize glyceraldehyde 3-phosphate (G3P).\n3. Net Biochemical Equation:\n   6 CO2 + 6 H2O + Light Energy → C6H12O6 + 6 O2\n4. Energetic Efficiency: Converts approximately 1–2% of incident solar radiation into plant biomass, providing the foundational energy source for terrestrial ecosystems.",
+            "timestamp": "2026-11-07T13:23:52.322Z",
+            "suggestedActions": [
+              "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+              "COMPARE C3, C4, AND CAM PHOTOSYNTHESIS",
+              "TAKE BIOENERGETICS ASSESSMENT QUIZ"
+            ],
+            "relatedConcepts": [
+              "Photophosphorylation",
+              "Thylakoid Dynamics",
+              "RuBisCO Kinetics",
+              "Cellular Respiration"
+            ]
+          },
+          {
+            "id": "msg_std_1794057832350",
+            "sender": "student",
+            "text": "What is the role of ATP synthase in this process?",
+            "timestamp": "2026-11-07T13:23:52.350Z"
+          },
+          {
+            "id": "msg_tut_1794057832350",
+            "sender": "tutor",
+            "text": "Let's analyze \"What is the role of ATP synthase in this process?\" from first principles.\n\n1. Core Definition: Deconstruct the problem into foundational axioms and verifiable components.\n2. Structural Mechanics: Trace the cause-and-effect relationships and operational logic governing this topic.\n3. Mathematical or Practical Analogy: Anchor the abstraction in real-world empirical examples.\n4. Key Takeaway: Ensure synthesized understanding before applying to advanced examination questions.",
+            "timestamp": "2026-11-07T13:23:52.350Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Conceptual Deconstruction",
+              "Axiomatic Analysis",
+              "Pedagogical Scaffolding"
+            ]
+          }
+        ],
+        "isLockedTitle": true,
+        "isCustomNamed": true
+      }
+    ],
+    "67de0df7-7d2e-4dc6-9b1f-9caf59537691": [
+      {
+        "id": "conv_1794058894304_2p5zc",
+        "profileId": "67de0df7-7d2e-4dc6-9b1f-9caf59537691",
+        "title": "Mastering Plant Bioenergetics",
+        "subject": "Biology & Bioenergetics",
+        "createdAt": "2026-11-07T13:41:34.305Z",
+        "updatedAt": "2026-11-07T13:41:34.349Z",
+        "messages": [
+          {
+            "id": "msg_std_1794058894312",
+            "sender": "student",
+            "text": "Explain photosynthesis in simple words",
+            "timestamp": "2026-11-07T13:41:34.312Z"
+          },
+          {
+            "id": "msg_tut_1794058894312",
+            "sender": "tutor",
+            "text": "Photosynthesis is the fundamental biological process by which autotrophic organisms (plants, algae, and cyanobacteria) convert light energy into chemical energy stored in carbohydrate bonds.\n\n1. Light-Dependent Reactions: Photons strike Photosystem II and I in the thylakoid membranes, exciting electrons and splitting H2O to release oxygen (O2) and generate ATP and NADPH.\n2. Calvin Cycle (Light-Independent): In the stroma, RuBisCO catalyzes the fixation of atmospheric CO2 onto ribulose-1,5-bisphosphate, utilizing ATP and NADPH to synthesize glyceraldehyde 3-phosphate (G3P).\n3. Net Biochemical Equation:\n   6 CO2 + 6 H2O + Light Energy → C6H12O6 + 6 O2\n4. Energetic Efficiency: Converts approximately 1–2% of incident solar radiation into plant biomass, providing the foundational energy source for terrestrial ecosystems.",
+            "timestamp": "2026-11-07T13:41:34.312Z",
+            "suggestedActions": [
+              "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+              "COMPARE C3, C4, AND CAM PHOTOSYNTHESIS",
+              "TAKE BIOENERGETICS ASSESSMENT QUIZ"
+            ],
+            "relatedConcepts": [
+              "Photophosphorylation",
+              "Thylakoid Dynamics",
+              "RuBisCO Kinetics",
+              "Cellular Respiration"
+            ]
+          },
+          {
+            "id": "msg_std_1794058894339",
+            "sender": "student",
+            "text": "What is the role of ATP synthase in this process?",
+            "timestamp": "2026-11-07T13:41:34.339Z"
+          },
+          {
+            "id": "msg_tut_1794058894339",
+            "sender": "tutor",
+            "text": "Let's analyze \"What is the role of ATP synthase in this process?\" from first principles.\n\n1. Core Definition: Deconstruct the problem into foundational axioms and verifiable components.\n2. Structural Mechanics: Trace the cause-and-effect relationships and operational logic governing this topic.\n3. Mathematical or Practical Analogy: Anchor the abstraction in real-world empirical examples.\n4. Key Takeaway: Ensure synthesized understanding before applying to advanced examination questions.",
+            "timestamp": "2026-11-07T13:41:34.339Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Conceptual Deconstruction",
+              "Axiomatic Analysis",
+              "Pedagogical Scaffolding"
+            ]
+          }
+        ],
+        "isLockedTitle": true,
+        "isCustomNamed": true
+      }
+    ],
+    "1e5162df-326b-4b0c-a317-07ec7f8d66a2": [
+      {
+        "id": "conv_1794059083951_eh83l",
+        "profileId": "1e5162df-326b-4b0c-a317-07ec7f8d66a2",
+        "title": "Mastering Plant Bioenergetics",
+        "subject": "Biology & Bioenergetics",
+        "createdAt": "2026-11-07T13:44:43.951Z",
+        "updatedAt": "2026-11-07T13:44:43.999Z",
+        "messages": [
+          {
+            "id": "msg_std_1794059083959",
+            "sender": "student",
+            "text": "Explain photosynthesis in simple words",
+            "timestamp": "2026-11-07T13:44:43.959Z"
+          },
+          {
+            "id": "msg_tut_1794059083960",
+            "sender": "tutor",
+            "text": "Photosynthesis is the fundamental biological process by which autotrophic organisms (plants, algae, and cyanobacteria) convert light energy into chemical energy stored in carbohydrate bonds.\n\n1. Light-Dependent Reactions: Photons strike Photosystem II and I in the thylakoid membranes, exciting electrons and splitting H2O to release oxygen (O2) and generate ATP and NADPH.\n2. Calvin Cycle (Light-Independent): In the stroma, RuBisCO catalyzes the fixation of atmospheric CO2 onto ribulose-1,5-bisphosphate, utilizing ATP and NADPH to synthesize glyceraldehyde 3-phosphate (G3P).\n3. Net Biochemical Equation:\n   6 CO2 + 6 H2O + Light Energy → C6H12O6 + 6 O2\n4. Energetic Efficiency: Converts approximately 1–2% of incident solar radiation into plant biomass, providing the foundational energy source for terrestrial ecosystems.",
+            "timestamp": "2026-11-07T13:44:43.960Z",
+            "suggestedActions": [
+              "BREAK DOWN THE CALVIN CYCLE STEP BY STEP",
+              "COMPARE C3, C4, AND CAM PHOTOSYNTHESIS",
+              "TAKE BIOENERGETICS ASSESSMENT QUIZ"
+            ],
+            "relatedConcepts": [
+              "Photophosphorylation",
+              "Thylakoid Dynamics",
+              "RuBisCO Kinetics",
+              "Cellular Respiration"
+            ]
+          },
+          {
+            "id": "msg_std_1794059083988",
+            "sender": "student",
+            "text": "What is the role of ATP synthase in this process?",
+            "timestamp": "2026-11-07T13:44:43.988Z"
+          },
+          {
+            "id": "msg_tut_1794059083988",
+            "sender": "tutor",
+            "text": "Let's analyze \"What is the role of ATP synthase in this process?\" from first principles.\n\n1. Core Definition: Deconstruct the problem into foundational axioms and verifiable components.\n2. Structural Mechanics: Trace the cause-and-effect relationships and operational logic governing this topic.\n3. Mathematical or Practical Analogy: Anchor the abstraction in real-world empirical examples.\n4. Key Takeaway: Ensure synthesized understanding before applying to advanced examination questions.",
+            "timestamp": "2026-11-07T13:44:43.988Z",
+            "suggestedActions": [
+              "APPLY FIRST PRINCIPLES TO A PROBLEM",
+              "SHOW AN EXAMPLE OF FOUNDATIONAL AXIOMS",
+              "PRACTICE A CONCEPT MAPPING EXERCISE"
+            ],
+            "relatedConcepts": [
+              "First Principles Thinking",
+              "Conceptual Deconstruction",
+              "Axiomatic Analysis",
+              "Pedagogical Scaffolding"
+            ]
+          }
+        ],
+        "isLockedTitle": true,
+        "isCustomNamed": true
+      }
+    ]
+  }
+}
